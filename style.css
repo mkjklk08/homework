@@ -1,0 +1,136 @@
+body{
+    background-color: antiquewhite;
+}
+.header{
+    font-family: 'Covered By Your Grace';
+    font-style: normal;
+    text-align: center;
+    font-size: 25px;
+    background-image: url('https://www.shutterstock.com/image-photo/traditional-turkish-coffee-silver-cup-600nw-2493949665.jpg');
+    background-size:cover;
+    color: rgb(92, 24, 24);
+    padding-top: 3px;
+    padding-bottom: 65px;   
+}
+.roasting {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    border: 3px solid antiquewhite;
+    border-width: 50px;
+    background-color: white;
+}
+h3 {
+    font-size: 13px;
+    font-family: 'Raleway';
+    color:  rgb(92, 24, 24);
+    font-style: normal;
+    font-weight: 100 bold;
+}
+.rscoffee {
+    font-size: 10px;
+    color: grey;
+}
+.green p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 12px;
+}
+.green h4,h5{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.green{
+    border: 3px solid rgb(74, 105, 146);
+    background-color: rgb(74, 105, 146);
+}
+.light p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 12px;
+}
+.light h4,h5{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.light{
+    border: 3px solid rgb(183, 113, 49);
+    background-color: rgb(183, 113, 49);
+}
+.city p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 12px;
+}
+.city h4,h5{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.city{
+    border: 3px solid rgb(94, 58, 29);
+    background-color: rgb(94, 58, 29);
+}
+.vienna p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 12px;
+}
+.vienna h4,h5{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.vienna{
+    border: 3px solid rgb(219, 70, 90);
+    background-color: rgb(219, 70, 90);
+}
+.italian p{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 12px;
+}
+.italian h4,h5{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.italian{
+    border: 3px solid rgb(44, 48, 54);
+    background-color: rgb(44, 48, 54);
+}
+ul li{
+    text-decoration: none;
+    list-style: none;
+}
+ul{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+ul li{
+    border: 2px solid antiquewhite;
+}
+ul li h2{
+    font-size: 18px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400 ;
+    color: rgb(83, 47, 3);
+}
+ul li p{
+    font-size: 13px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    color: grey;
+}
+hr {
+    height: 1px;
+    background-color: rgb(143, 119, 92);
+    border-color: rgb(143, 119, 92);
+  }
+a{
+    font-family: 'Raleway';
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(4, 79, 4);
+}
